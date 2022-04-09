@@ -8,3 +8,5 @@ Setting it up:
 - pip install Flask
 - pip install python-dotenv
 - Added .flashenv file 
+- Added html template to route
+- Added render_template

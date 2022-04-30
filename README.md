@@ -10,3 +10,4 @@ Setting it up:
 - Added .flashenv file 
 - Added html template to route
 - Added render_template
+- Added database, migrations, models
